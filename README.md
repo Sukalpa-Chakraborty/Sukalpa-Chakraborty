@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sukalpa Chakraborty</h1>
-<h3 align="center">CSE Student | Software Engineer | Full Stack Developer | Data Analytics | Web Development Enthusiast</h3>
+<h3 align="center">CSE Student | Software Engineer | Full Stack Developer </h3>
 
 <!-- RIGHT SIDE CODING GIF -->
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
@@ -15,7 +15,7 @@
 - C++, Python, SQL, HTML, Java, Artificial Intelligence  
 
 ### 💬 Ask Me About
-- Cybersecurity | Web Development  
+-  Web Development  
 
 ### 📫 Contact
 - sukalpa2005@gmail.com  
@@ -27,7 +27,7 @@
 
 ### 🧑‍💻 About Me
 - 🎓 B.Tech CSE student passionate about real-world tech solutions  
-- 💻 Interested in Full Stack Development, AI, and Cybersecurity  
+- 💻 Interested in Full Stack Development, AI
 - 🚀 Exploring Data Analytics and Cloud Technologies  
 - 🧠 Strong problem-solving and logical thinking  
 - 🤝 Open to collaboration and hackathons  
