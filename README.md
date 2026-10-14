@@ -14,15 +14,23 @@
 
 <br/><br/>
 
-<a href="https://github.com/Sukalpa-Chakraborty">
-<img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://sukalpa-chakraborty.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-58E6F2?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Portfolio"/>
 </a>
 <a href="https://in.linkedin.com/in/sukalpa-chakraborty">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-162033?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="(https://sukalpa-chakraborty.vercel.app/)">
-<img src="https://img.shields.io/badge/Portfolio-Skill%20Roadmap-0E7490?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<a href="https://github.com/Sukalpa-Chakraborty">
+<img src="https://img.shields.io/badge/GITHUB-162033?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
+<br/><br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Sukalpa-Chakraborty&style=flat-square&color=0E7490&label=Profile%20Views" alt="Profile Views"/>
+</div>
+
+</div>
 
 </div>
 
@@ -78,55 +86,40 @@ A personalized learning and career roadmap application that helps users explore 
 
 **Tech stack:** React · TypeScript · Vite · Tailwind CSS
 
-<div align="left">
-<a href="https://skill-roadmap-90324.web.app/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-0E7490?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
-</a>
-<a href="https://github.com/Sukalpa-Chakraborty/skill_roadmap">
-<img src="https://img.shields.io/badge/SOURCE_CODE-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-</a>
-</div>
+<a href="https://skill-roadmap-90324.web.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-0E7490?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/Sukalpa-Chakraborty/skill_roadmap"><img src="https://img.shields.io/badge/SOURCE_CODE-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
 
 ### 02. ExamSphere — Online Exam Management System
 
-A web-based examination management application designed to streamline the process of conducting and managing online exams, helping make assessments more organized and accessible.
+A web-based examination management application designed to streamline online assessments and organize examination activities through a digital platform.
 
 **Key features**
 - Online examination management
 - Digital assessment workflow
 - Organized exam-related information
-- User-friendly interface for exam activities
+- User-friendly interface
 - Centralized management of examination tasks
 
 **Tech stack:** React · TypeScript · Vite · Tailwind CSS · Firebase
 
-<a href="online-exam-management-s-a8527.web.app">
-<img src="https://img.shields.io/badge/LIVE_DEMO-0E7490?style=for-the-badge&logo=googlechrome&logoColor=white"alt="Live Demo"/>
-</a>
-<a href="(https://github.com/Sukalpa-Chakraborty/Online-Exam-Management-System)">
-<img src="https://img.shields.io/badge/SOURCE_CODE-0D1117?style=for-the-badge&logo=github&logoColor=white"alt="Source Code"/>
-</a>
+<a href="https://online-exam-management-s-a8527.web.app"><img src="https://img.shields.io/badge/LIVE_DEMO-0E7490?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/Sukalpa-Chakraborty/Online-Exam-Management-System"><img src="https://img.shields.io/badge/SOURCE_CODE-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
 
 ### 03. SEVA SETU
 
-A service-oriented web application designed to connect people with useful resources and support, making access to services more convenient through a digital platform.
+A service-oriented web application designed to make accessing services and information more convenient through a digital platform.
 
 **Key features**
 - Digital access to services and information
 - User-friendly service navigation
-- Organized presentation of available resources
-- Simplified interaction with the platform
+- Organized presentation of resources
+- Simplified user interaction
 - Responsive web interface
 
-**Tech stack:** React • TypeScript • Firebase • Firestore • Tailwind CSS
+**Tech stack:** React · TypeScript · Firebase · Firestore · Tailwind CSS
 
-<a href="https://seva-setu-e717c.web.app/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-0E7490?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
-</a>
-<a href="https://github.com/Sukalpa-Chakraborty/SEVA-SETU">
-<img src="https://img.shields.io/badge/SOURCE_CODE-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-</a>
-
+<a href="https://seva-setu-e717c.web.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-0E7490?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/Sukalpa-Chakraborty/SEVA-SETU"><img src="https://img.shields.io/badge/SOURCE_CODE-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
 
 ---
 
@@ -156,14 +149,14 @@ I'm interested in opportunities to learn, collaborate, and build meaningful soft
 
 <div align="center">
 
-<a href="https://github.com/Sukalpa-Chakraborty">
-<img src="https://img.shields.io/badge/VIEW_MY_WORK-0D1117?style=for-the-badge&logo=github&logoColor=58E6F2" alt="View My Work"/>
+<a href="https://sukalpa-chakraborty.vercel.app/">
+<img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-58E6F2?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Portfolio"/>
 </a>
 <a href="https://in.linkedin.com/in/sukalpa-chakraborty">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=58E6F2" alt="Connect on LinkedIn"/>
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-162033?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://skill-roadmap-90324.web.app/">
-<img src="https://img.shields.io/badge/EXPLORE_MY_PROJECT-0E7490?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore My Project"/>
+<a href="https://github.com/Sukalpa-Chakraborty">
+<img src="https://img.shields.io/badge/VIEW_MY_GITHUB-162033?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
