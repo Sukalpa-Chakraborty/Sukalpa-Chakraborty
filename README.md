@@ -11,8 +11,8 @@
 *Learning through code. Building through curiosity. Growing through projects.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sukalpa-Chakraborty)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0891B2?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/Sukalpa-Chakraborty)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukalpa-chakraborty)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0891B2?style=flat-square&logo=googlechrome&logoColor=white)](https://sukalpa-chakraborty.vercel.app/)
 
 </div>
 
@@ -124,7 +124,7 @@
 <a href="https://github.com/Sukalpa-Chakraborty">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/sukalpa-chakraborty">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
